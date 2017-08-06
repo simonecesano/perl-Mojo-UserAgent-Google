@@ -1,4 +1,7 @@
 package Mojo::UserAgent::Google;
+
+# ABSTRACT: a Mojo::UserAgent that passes the Google authorization token in the request header
+
 use strict;
 use warnings;
 
